@@ -7,4 +7,5 @@ Used Linear Regression(for base comparison) and XGboost Regressor, max r2 value 
 
 
 used CV, feature importance but r2 score didnt improve significantly
+
 TO DO - PCA and outlier detection
